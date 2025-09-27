@@ -18,7 +18,7 @@ A **Secure Online Exam system** with **OTP login**, **MCQ tests**, and **anti-ch
 
 ---
 
-### Screenshots
+## Screenshots
 
 ### 1. Login Page
 ![Login Page](images/Login.png)
@@ -45,5 +45,6 @@ A **Secure Online Exam system** with **OTP login**, **MCQ tests**, and **anti-ch
 
 ## How to Run Locally
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/TanushriSV/secure-online-exam.git
