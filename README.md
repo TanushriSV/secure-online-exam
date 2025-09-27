@@ -21,25 +21,25 @@ A **Secure Online Exam system** with **OTP login**, **MCQ tests**, and **anti-ch
 ### Screenshots
 
 ### 1. Login Page
-![Login Page](Images/Login.png)
+![Login Page](images/Login.png)
 
 ### 2. OTP Authentication
-![OTP Authentication](Images/OTP_Authentication.png)
+![OTP Authentication](images/OTP_Authentication.png)
 
 ### 3. OTP Verification
-![OTP Verification](Images/OTP_Verification.png)
+![OTP Verification](images/OTP_Verification.png)
 
 ### 4. Exam Questions
-![Exam Questions](Images/Exam_Questions.png)
+![Exam Questions](images/Exam_Questions.png)
 
 ### 5. Tab Switch Detection
-![Tab Switch Detection](Images/Tab_Switch_Detection.png)
+![Tab Switch Detection](images/Tab_Switch_Detection.png)
 
 ### 6. Exam Rendering
-![Exam Rendering](Images/Exam_Rendering.png)
+![Exam Rendering](images/Exam_Rendering.png)
 
 ### 7. Exam Result
-![Exam Result](Images/Exam_Result.png)
+![Exam Result](images/Exam_Result.png)
 
 ---
 
