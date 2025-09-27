@@ -21,7 +21,7 @@ A **Secure Online Exam system** with **OTP login**, **MCQ tests**, and **anti-ch
 ### Screenshots
 
 ### 1. Login Page
-![Login Page](images/1. Login.png)
+![Login Page](images/1.Login.png)
 
 ### 2. OTP Authentication
 ![OTP Authentication](images/OTP_Authentication.png)
