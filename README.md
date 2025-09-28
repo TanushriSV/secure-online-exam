@@ -43,4 +43,5 @@ A **Secure Online Exam system** with **OTP login**, **MCQ tests**, and **anti-ch
 
 ---
 ## 🔗 Live Demo
-[View Live Project](https://github.com/TanushriSV/secure-online-exam.git)
+[View Live Project]( https://tanushrisv.github.io/secure-online-exam/
+)
